@@ -7,22 +7,10 @@
   degree: BSc. in Astronomy
   year: 2024
 
-
 - name: Chloe Tap
   location: Leiden Observatory
   degree: MSc. in Astronomy
   year: 2024
-
-- name: Yuan Chen
-  location: Leiden Observatory
-  degree: MSc. in Astronomy
-  year: 2020
-
-- name: Michaela Heilman
-  location: Leiden Observatory
-  degree: MSc. in Astronomy
-  year: 2020
-
 
 
 - name: Robert Jaros
@@ -30,12 +18,44 @@
   degree: Research Internship
   year: 2022
 
+
+- name:  Daria Zaremba
+  location: European Southern Observatory
+  degree: Summer Student
+  year: 2022
+
+
+- name:  Tanya Kushwahaa
+  location: Leiden Observatory
+  degree: Summer Student
+  year: 2022
+
+
 - name: Helena Mazurek
   location: European Southern Observatory
   degree: Research Internship
-  year: 2022
+  year: 2021
+
+- name:  Paulina Palma Bifani
+  location: European Southern Observatory
+  degree: Summer Student
+  year: 2021
+
+
+
+- name: Yuan Chen
+  location: Leiden Observatory
+  degree: MSc. in Astronomy
+  year: 2020
+
+- name: Micha Heilman
+  location: Leiden Observatory
+  degree: MSc. in Astronomy
+  year: 2020
+
 
 - name: Jarosław Stephan
   location: Nicolaus Copernicus University in Toruń
   degree: BSc in Astronomy
   year: 2019
+
