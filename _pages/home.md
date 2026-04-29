@@ -20,7 +20,7 @@ permalink: /
 
 ### About me
 
-I am an astrophysics working on exploring the earliest stages of the star and planet formation process. I use ALMA and JWST telescopes to observe chemical complexity of youngest protostars.
+I am an astrophysicist exploring the earliest stages of the star and planet formation process. I use ALMA and JWST telescopes to observe chemical complexity of the youngest protostars. 
 
 <div class="callout callout-success" markdown="0">
 <div class="callout-title"><i class="fa-solid fa-award callout-icon"></i> Young Scientist Award of Polish Astronomical Society, 2025</div>
