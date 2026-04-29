@@ -1,31 +1,41 @@
 # Students and mentees, shown on the About page.
 # Each entry needs: name, location, degree, year
-- name: Albert Hibbs
-  location: Caltech
-  degree: Ph.D.
-  year: 1955
 
-- name: George Zweig
-  location: Caltech
-  degree: Ph.D.
-  year: 1964
 
-- name: Giovanni Rossi Lomanitz
-  location: Cornell
-  degree: Ph.D.
-  year: 1951
+- name: Adriaan Janssen
+  location: Leiden Observatory
+  degree: BSc. in Astronomy
+  year: 2024
 
-- name: Thomas Curtright
-  location: Caltech
-  degree: Ph.D.
-  year: 1977
 
-- name: William Frazer
-  location: Caltech
-  degree: Ph.D.
-  year: 1958
+- name: Chloe Tap
+  location: Leiden Observatory
+  degree: MSc. in Astronomy
+  year: 2024
 
-- name: Robert Hellwarth
-  location: Caltech
-  degree: Ph.D.
-  year: 1956
+- name: Yuan Chen
+  location: Leiden Observatory
+  degree: MSc. in Astronomy
+  year: 2020
+
+- name: Michaela Heilman
+  location: Leiden Observatory
+  degree: MSc. in Astronomy
+  year: 2020
+
+
+
+- name: Robert Jaros
+  location: European Southern Observatory
+  degree: Research Internship
+  year: 2022
+
+- name: Helena Mazurek
+  location: European Southern Observatory
+  degree: Research Internship
+  year: 2022
+
+- name: Jarosław Stephan
+  location: Nicolaus Copernicus University in Toruń
+  degree: BSc in Astronomy
+  year: 2019

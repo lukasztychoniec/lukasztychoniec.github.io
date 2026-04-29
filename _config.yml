@@ -2,7 +2,7 @@
 # STEP 1: Your Identity (required)
 # ============================================================
 name: "Łukasz Tychoniec"
-title: "Dr."
+title: "Ph.D. in Astrophysics"
 institution: "Leiden Observatory"
 email: "tychoniec@strw.leidenuniv.nl"
 photo: "LukaszTychoniec.jpg"  # place your photo in images/
@@ -24,7 +24,7 @@ links:
 # ============================================================
 accent_color: "#1a7a6d"      # theme color for links and buttons
 dark_mode: true              # show dark mode toggle in navbar
-description: "Academic webpage of Dr. Łukasz Tychoniec"
+description: "Academic webpage of Łukasz Tychoniec, Ph.D. in Astrophysics at Leiden Observatory. Research on star formation, protostellar evolution, and astrochemistry."
 baseurl: ""
 url: ""
 
@@ -38,12 +38,13 @@ analytics:
 nav_pages:
   - name: about
   - name: publications
-  - name: talks
+  #- name: talks
   - name: research
+  
   #- name: software
   #- name: team
   #- name: teaching
-  #- name: blogs
+  - name: blogs
 
 # ============================================================
 # Advanced Settings (you probably don't need to change these)
@@ -76,19 +77,19 @@ kramdown:
 plugins: ["jekyll/scholar", "jekyll-sitemap"]
 
 scholar:
-  last_name: Doe
-  first_name: [John]
+  last_name: Tychoniec
+  first_name: [L.]
   style: citesty
   locale: en
   source: /assets/
-  bibliography: ref.bib
+  bibliography: "ref.bib"
   bibliography_template: bibtemplate
   sort_by: year, month
   order: descending
   replace_strings: true
   join_strings: true
   details_dir: bibliography
-  details_layout: bibtex.html
+  details_layout: bib.html
   details_link: Details
   query: "@*"
   bibliography_list_attributes:

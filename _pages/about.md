@@ -63,7 +63,7 @@ permalink: /about/
 </ul>
 </div>
 {% endif %}
-
+<!--
 {% if site.data.funders %}
 <div class="section-card">
 <h4>Sponsors</h4>
@@ -74,3 +74,4 @@ permalink: /about/
 </div>
 </div>
 {% endif %}
+-->

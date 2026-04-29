@@ -1,20 +1,15 @@
 # News items shown on the home page sidebar.
 # The 3 most recent are shown; all appear on /allnews.
 # Each entry needs: date, headline
-- date: 6 February, 1986
-  headline: "Appointed to the Rogers Commission investigating the Space Shuttle Challenger disaster"
 
-- date: 1 January, 1980
-  headline: "National Medal of Science awarded by President Carter"
+- date: 14 April, 2026
+  headline: "First-author paper on BHR71-IRS1 jet accepted to Astronomy & Astrophysics"
 
-- date: 21 October, 1965
-  headline: "Awarded the Nobel Prize in Physics for contributions to quantum electrodynamics"
+- date: 1 February, 2026
+  headline: "200 citations reached on 2020 paper on dust masses in young disks!"
 
-- date: 1 September, 1961
-  headline: "The Feynman Lectures on Physics begins publication"
+- date: 14-25 July, 2025
+  headline: "Organization of I-HOW JWST Hands-On Workshop for Central & Eastern Europe 2025"
 
-- date: 1 June, 1959
-  headline: "Delivered 'There's Plenty of Room at the Bottom' talk at Caltech APS meeting"
-
-- date: 1 January, 1951
-  headline: "Joined the faculty at California Institute of Technology"
+- date: 19-23 May, 2025
+  headline: "Organization of Lorentz Center Workshop 2025"
