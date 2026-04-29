@@ -1,30 +1,30 @@
 # ============================================================
 # STEP 1: Your Identity (required)
 # ============================================================
-name: "Richard Feynman"
-title: "Professor of Physics"
-institution: "California Institute of Technology"
-email: richard@university.edu
-photo: headshot.jpg  # place your photo in images/
+name: "Łukasz Tychoniec"
+title: "Dr."
+institution: "Leiden Observatory"
+email: "tychoniec@strw.leidenuniv.nl"
+photo: "LukaszTychoniec.jpg"  # place your photo in images/
 
 # ============================================================
 # STEP 2: Your Links (optional -- delete any you don't use)
 # ============================================================
 links:
-  google_scholar: "https://scholar.google.com/citations?user=B7vSqZsAAAAJ"
-  github: "https://github.com/"
-  researchgate: "https://www.researchgate.net/"
-  orcid: ""
-  twitter: ""
-  linkedin: ""
-  cv: ""  # e.g., "papers/cv.pdf" — leave blank to hide the CV icon
+  google_scholar: "https://scholar.google.com/citations?user=nPEtfQIAAAAJ&hl=en"
+  github: "https://github.com/lukasztychoniec"
+  researchgate: "https://www.researchgate.net/profile/Lukasz-Tychoniec?ev=hdr_xprf"
+  orcid: "https://orcid.org/my-orcid?orcid=0000-0002-9470-2358"
+  twitter: "https://x.com/ltychoniec"
+  linkedin: "https://www.linkedin.com/in/ltychoniec/"
+  cv: "papers/cv.pdf" 
 
 # ============================================================
 # STEP 3: Site Settings
 # ============================================================
 accent_color: "#1a7a6d"      # theme color for links and buttons
 dark_mode: true              # show dark mode toggle in navbar
-description: "Academic webpage of Dr. Richard Feynman"
+description: "Academic webpage of Dr. Łukasz Tychoniec"
 baseurl: ""
 url: ""
 
@@ -40,10 +40,10 @@ nav_pages:
   - name: publications
   - name: talks
   - name: research
-  - name: software
-  - name: team
-  - name: teaching
-  - name: blogs
+  #- name: software
+  #- name: team
+  #- name: teaching
+  #- name: blogs
 
 # ============================================================
 # Advanced Settings (you probably don't need to change these)

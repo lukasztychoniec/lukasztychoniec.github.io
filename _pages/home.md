@@ -9,12 +9,12 @@ permalink: /
 <p class="home-hero-sub">{{ site.title }}, {{ site.institution }}</p>
 
 <div class="chip-container" markdown="0">
-<a href="{{ site.url }}{{ site.baseurl }}/research" class="chip">Quantum Electrodynamics</a>
-<a href="{{ site.url }}{{ site.baseurl }}/research" class="chip">Path Integrals</a>
-<a href="{{ site.url }}{{ site.baseurl }}/research" class="chip">Superfluidity</a>
-<a href="{{ site.url }}{{ site.baseurl }}/research" class="chip">Parton Model</a>
-<a href="{{ site.url }}{{ site.baseurl }}/research" class="chip">Quantum Computing</a>
-<a href="{{ site.url }}{{ site.baseurl }}/research" class="chip">Nanotechnology</a>
+<a href="{{ site.url }}{{ site.baseurl }}/research" class="chip">star formation</a>
+<a href="{{ site.url }}{{ site.baseurl }}/research" class="chip">planet formation</a>
+<a href="{{ site.url }}{{ site.baseurl }}/research" class="chip">protostellar jets</a>
+<a href="{{ site.url }}{{ site.baseurl }}/research" class="chip">astrochemistry</a>
+<a href="{{ site.url }}{{ site.baseurl }}/research" class="chip">JWST</a>
+<a href="{{ site.url }}{{ site.baseurl }}/research" class="chip">ALMA</a>
 </div>
 
 Theoretical physics is a branch of physics that focuses on the development of mathematical models and theories to understand and explain natural phenomena.
@@ -22,13 +22,13 @@ It plays a crucial role in our understanding of the fundamental laws of the univ
 Research in theoretical physics helps us to make predictions about how the universe works and to test these predictions through experiments.
 
 <div class="callout callout-success" markdown="0">
-<div class="callout-title"><i class="fa-solid fa-award callout-icon"></i> Nobel Prize in Physics, 1965</div>
-<p>Awarded the Nobel Prize jointly with Julian Schwinger and Shin'ichiro Tomonaga for fundamental work in quantum electrodynamics, with deep-ploughing consequences for the physics of elementary particles.</p>
+<div class="callout-title"><i class="fa-solid fa-award callout-icon"></i> Young Scientist Award of Polish Astronomical Society, 2025</div>
+<p></p>
 </div>
 
 <div class="banner-frame" markdown="0">
-<img src="{{ site.url }}{{ site.baseurl }}/images/banner.jpg" alt="Feynman diagrams" loading="lazy">
-<div class="banner-caption">Examples of Feynman diagrams. Feynman R., <em>The theory of positrons. Phys. Rev.</em> (1949)</div>
+<img src="{{ site.url }}{{ site.baseurl }}/images/pta2025.jpeg" alt="PAS Young Scientist Award 2025. Credit: OA UW/PTA" loading="lazy">
+<div class="banner-caption">PAS Young Scientist Award Ceremony, Warsaw (2025)</div>
 </div>
 
 ### About me
