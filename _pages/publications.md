@@ -15,7 +15,7 @@ permalink: /publications/
 {% bibliography --query @unpublished %}
 -->
 
-<h3>Refereed Journal Articles</h3>
+<h3>Selected Refereed Journal Articles</h3>
 
 {% bibliography --query @article %}
 
