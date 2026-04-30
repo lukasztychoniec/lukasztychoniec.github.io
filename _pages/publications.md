@@ -15,9 +15,9 @@ permalink: /publications/
 {% bibliography --query @unpublished %}
 -->
 
-<h3>Refereed Journal Articles</h3>
+<h3>Refereed first-author articles</h3>
 
-{% bibliography --query @article %}
+{% filtered_bibliography firstauthor %}
 
 <!---
 
@@ -25,5 +25,8 @@ permalink: /publications/
 
 {% bibliography --query @inproceedings %}
 -->
+
+<h3> Refereed co-authored Articles with key contribution</h3>
+{% filtered_bibliography keyauthor %}
 
 </div>
