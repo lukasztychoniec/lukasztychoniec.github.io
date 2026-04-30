@@ -23,7 +23,7 @@ permalink: /research/
 <div class="research-body">
 <h4 class="research-title">Young disks</h4>
 <p class="research-desc">Protostellar stage is crucial as this is where most of the mass is assembled on the star and disk and where planets start to form. In my research I study dust properties
-of young disks and the gas composition of the planet forming regions.s</p>
+of young disks and the gas composition of the planet forming regions.</p>
 </div>
 
 </div>

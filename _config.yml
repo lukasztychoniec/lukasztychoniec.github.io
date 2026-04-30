@@ -43,7 +43,7 @@ nav_pages:
   
   #- name: software
   #- name: team
-  #- name: teaching
+  - name: outreach
   - name: blogs
 
 # ============================================================

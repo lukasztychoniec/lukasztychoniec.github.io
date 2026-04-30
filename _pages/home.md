@@ -9,7 +9,6 @@ permalink: /
 <p class="home-hero-sub">{{ site.title }}, {{ site.institution }}</p>
 
 <div class="chip-container" markdown="0">
-<a href="{{ site.url }}{{ site.baseurl }}/research" class="chip">star formation</a>
 <a href="{{ site.url }}{{ site.baseurl }}/research" class="chip">planet formation</a>
 <a href="{{ site.url }}{{ site.baseurl }}/research" class="chip">protostellar jets</a>
 <a href="{{ site.url }}{{ site.baseurl }}/research" class="chip">astrochemistry</a>
