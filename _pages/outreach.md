@@ -5,7 +5,30 @@ sitemap: false
 permalink: /outreach/
 ---
 
-## Outreach
+## Outreach in English
+
+<div class="research-grid">
+
+<div class="research-card">
+  <iframe
+    data-testid="embed-iframe"
+    style="border-radius:12px"
+    src="https://www.youtube.com/embed/MWyZSNCb2KU?si=2zv2urnco-88xwlq"
+    width="100%"
+    height="152"
+    frameborder="0"
+    allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"
+    loading="lazy">
+  </iframe>
+  <div class="research-body">
+<h4 class="research-title"> JWST: Three years of discoveries</h4>
+<p class="research-desc"> Opening Lecture of the I-HOW IAU JWST Hands-On Workshop for Central and Eastern  </p>
+ 
+</div>
+</div>
+</div>
+
+## Outreach in Polish
 
 <div class="research-grid">
 
@@ -60,12 +83,49 @@ permalink: /outreach/
   <div class="research-body">
 <h4 class="research-title">Revolution of the JWST</h4>
 <p class="research-desc"> Podcast Wgryzamy się we Wszechświat (in Polish)</p>
+ </div>
+</div>
+
+
+
+<div class="research-card">
+  <iframe
+    data-testid="embed-iframe"
+    style="border-radius:12px"
+    src="https://www.youtube.com/embed/iDcETBE7Psw?si=sPxlbQR2SizYs0Z2"
+    width="100%"
+    height="152"
+    frameborder="0"
+    allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"
+    loading="lazy">
+  </iframe>
+  <div class="research-body">
+<h4 class="research-title"> Czujemy chemię do astronomii</h4>
+<p class="research-desc"> Podcast Projekt Pulsar</p>
  
 </div>
+
 </div>
 
 
+<div class="research-card">
+  <iframe
+    data-testid="embed-iframe"
+    style="border-radius:12px"
+    src="https://www.youtube.com/embed/bzKEebGIQSM?si=uuXi_uNQb0w3RM57"
+    width="100%"
+    height="152"
+    frameborder="0"
+    allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"
+    loading="lazy">
+  </iframe>
+  <div class="research-body">
+<h4 class="research-title"> O zagadce Gwiazdy Betlejemskiej i badaniach nad powstawaniem gwiazd</h4>
+<p class="research-desc"> powiatgoleniowski.info </p>
+ 
+</div>
 
+</div>
 
 </div>
 
