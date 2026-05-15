@@ -32,6 +32,15 @@ permalink: /outreach/
 
 <div class="research-grid">
 
+
+<div class="research-card">
+<img src="{{ site.url }}{{ site.baseurl }}/images/research/3iatlas.png" class="research-thumb" alt="3iatlas">
+<div class="research-body">
+<h4 class="research-title">Wypowiedź dla Newsmax Polska o komecie 3I/ATLAS</h4>
+<p class="research-desc"><a href="https://newsmaxpolska.pl/magazyn/aktualnosci/46838/czym-jest-3iatlas-astrofizyk-dla-newsmax-polska-nie-jest-typowa-kometa/news?fbclid=IwY2xjawRzzY9leHRuA2FlbQIxMQBzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEeJsf0M-8PbxGi02lqKtodAwVqtn2FmoMHR3LJbkfKJP3ljUT6ESGMcVAyjGE_aem_4hOtr3XlEU4mjhiC4TrVfQ" target="_blank" rel="noopener noreferrer">Read here</a></p>
+</div>
+</div>
+
 <div class="research-card">
   <iframe
     data-testid="embed-iframe"
@@ -107,7 +116,6 @@ permalink: /outreach/
 
 </div>
 
-
 <div class="research-card">
   <iframe
     data-testid="embed-iframe"
@@ -122,10 +130,11 @@ permalink: /outreach/
   <div class="research-body">
 <h4 class="research-title"> O zagadce Gwiazdy Betlejemskiej i badaniach nad powstawaniem gwiazd</h4>
 <p class="research-desc"> powiatgoleniowski.info </p>
- 
+</div>
 </div>
 
-</div>
+
+
 
 </div>
 
