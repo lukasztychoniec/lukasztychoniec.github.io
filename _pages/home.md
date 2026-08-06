@@ -22,6 +22,16 @@ permalink: /
 I am an astrophysicist exploring the earliest stages of the star and planet formation process. I use ALMA and JWST telescopes to observe chemical complexity of the youngest protostars. 
 
 <div class="callout callout-success" markdown="0">
+<div class="callout-title"><i class="fa-solid fa-award callout-icon"></i> Contributed talk about first highlights of our Y-Disks collaboration at Discs on the Exe conference.</div>
+<p></p>
+</div>
+
+<div class="banner-frame" markdown="0">
+<img src="{{ site.url }}{{ site.baseurl }}/images/exe.jpeg" alt="" loading="lazy">
+<div class="banner-caption">Discs on the Exe, 2026</div>
+</div>
+
+<div class="callout callout-success" markdown="0">
 <div class="callout-title"><i class="fa-solid fa-award callout-icon"></i> Young Scientist Award of Polish Astronomical Society, 2025</div>
 <p></p>
 </div>
