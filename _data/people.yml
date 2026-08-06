@@ -2,6 +2,23 @@
 # Each entry needs: name, location, degree, year
 
 
+
+
+- name: Anete Egliene
+  location: University of Latvia
+  degree: MSc. in Astronomy
+  year: 2026
+
+- name: Job Callenbach
+  location: Leiden Observatory
+  degree: MSc. in Astronomy
+  year: 2026
+
+- name: Daan de Jong
+  location: Leiden Observatory
+  degree: MSc. in Astronomy
+  year: 2026
+
 - name: Adriaan Janssen
   location: Leiden Observatory
   degree: BSc. in Astronomy

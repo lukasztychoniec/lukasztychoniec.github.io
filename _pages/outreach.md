@@ -25,6 +25,7 @@ permalink: /outreach/
 <p class="research-desc"> Opening Lecture of the I-HOW IAU JWST Hands-On Workshop for Central and Eastern  </p>
  
 </div>
+</div>
 
 <div class="research-card">
 <iframe title="Embed Player" width="100%" height="188px" src="https://embed.acast.com/64d13ddb47e49300110ab833/6a58d366cebd1afd44c2eb5d" scrolling="no" frameBorder="0" style="border:none;overflow:hidden;"></iframe>
@@ -32,7 +33,6 @@ permalink: /outreach/
 <h4 class="research-title">Astrochem Coffee</h4>
 <p class="research-desc">Podcast with Brett McGuire</p>
  
-</div>
 </div>
 
 
